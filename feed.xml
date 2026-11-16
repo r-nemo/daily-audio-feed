@@ -7,7 +7,7 @@
     <description>NotebookLMによって毎日自動生成される音声概要です。</description>
     <language>ja</language>
     <copyright>Copyright (C) 2026 NotebookLM Auto</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 22:22:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:08:52 +0900</lastBuildDate>
     <generator>NotebookLM Auto Podcast Generator</generator>
     <atom:link href="https://r-nemo.github.io/daily-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
@@ -21,6 +21,45 @@
       <title>NotebookLM Daily Overview</title>
       <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
     </image>
+    <item>
+      <title>[11/16] 日本の経済・ビジネス動向</title>
+      <description>トピック: 日本の経済・ビジネス動向 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本経済 OR 株価 OR ビジネストレンド))</description>
+      <pubDate>Mon, 16 Nov 2026 21:08:35 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261116_6.mp3" length="7532086" type="audio/mpeg" />
+      <guid isPermaLink="false">f50f512f-5ca5-4175-89e4-3f528de52045</guid>
+      <itunes:duration>00:15:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: 日本の経済・ビジネス動向 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本経済 OR 株価 OR ビジネストレンド))</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
+    <item>
+      <title>[11/16] 最新ウェルネスと健康科学</title>
+      <description>トピック: 最新ウェルネスと健康科学 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (健康科学 OR 予防医療 OR 睡眠科学))</description>
+      <pubDate>Mon, 16 Nov 2026 21:08:50 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261116_5.mp3" length="6150104" type="audio/mpeg" />
+      <guid isPermaLink="false">9ccfbd5c-505b-4742-8517-b1ff69e08464</guid>
+      <itunes:duration>00:12:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: 最新ウェルネスと健康科学 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (健康科学 OR 予防医療 OR 睡眠科学))</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
+    <item>
+      <title>[11/16] 世界の自然災害と気候変動</title>
+      <description>トピック: 世界の自然災害と気候変動 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本の自然災害 OR 日本の異常気象 OR 気候変動))</description>
+      <pubDate>Mon, 16 Nov 2026 21:08:17 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261116_4.mp3" length="5890760" type="audio/mpeg" />
+      <guid isPermaLink="false">afe002bd-fae2-415e-98a1-e86970a68829</guid>
+      <itunes:duration>00:12:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: 世界の自然災害と気候変動 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本の自然災害 OR 日本の異常気象 OR 気候変動))</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
     <item>
       <title>[11/15] ネットカルチャー・SNSトレンド</title>
       <description>トピック: ネットカルチャー・SNSトレンド に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (SNSトレンド OR ネット文化 OR ガジェット OR サイバーセキュリティ))</description>
